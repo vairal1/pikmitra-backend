@@ -1,0 +1,353 @@
+{
+  "Apple___Apple_scab": {
+    "crop": "Apple",
+    "symptoms": {
+      "en": "Dark, scabby lesions on leaves and fruits; premature leaf drop.",
+      "hi": "पत्तियों और फलों पर गहरे धब्बेदार घाव; समय से पहले पत्तियां झड़ना।",
+      "mr": "पान आणि फळांवर गडद, डागासारखे घाव; पान लवकर झडणे."
+    },
+    "cure": {
+      "en": "Prune affected areas, apply fungicides like Captan or Myclobutanil, and ensure good air circulation.",
+      "hi": "प्रभावित हिस्सों को छांटें, कैप्टान या मायकोब्लूटेनिल जैसे फफूंदनाशी दवाएं लगाएं, और अच्छी हवा का प्रवाह सुनिश्चित करें।",
+      "mr": "संबंधित भाग छाटा, कॅप्टन किंवा मायकोब्लूटेनिलसारख्या कवकनाशकांचा वापर करा, आणि चांगली हवा पोहच सुनिश्चित करा."
+    }
+  },
+  "Apple___Black_rot": {
+    "crop": "Apple",
+    "symptoms": {
+      "en": "Black lesions on leaves and fruit, often surrounded by yellow halos; fruit rot.",
+      "hi": "पत्तियों और फलों पर काले धब्बे, अक्सर पीले घेरे से घिरे; फल सड़ना।",
+      "mr": "पान आणि फळांवर काळे डाग, बहुधा पिवळ्या वलयासह; फळ सडणे."
+    },
+    "cure": {
+      "en": "Remove infected fruit, apply fungicides like Sulfur or Bordeaux mixture, and maintain orchard hygiene.",
+      "hi": "संक्रमित फल हटा दें, सल्फर या बॉरडो मिश्रण जैसी फफूंदनाशी दवा लगाएं, और बागवानी स्वच्छता बनाए रखें।",
+      "mr": "संक्रमित फळ काढा, सल्फर किंवा बॉरडो मिश्रण वापरा, आणि बागेची स्वच्छता राखा."
+    }
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple",
+    "symptoms": {
+      "en": "Yellow-orange spots on leaves; distorted leaf growth; premature leaf drop.",
+      "hi": "पत्तियों पर पीले-नारंगी धब्बे; पत्ती विकृत होना; समय से पहले पत्तियां झड़ना।",
+      "mr": "पानावर पिवळे-नारिंगी डाग; पान विकृत होणे; पान लवकर झडणे."
+    },
+    "cure": {
+      "en": "Remove nearby juniper hosts, apply fungicides, and prune infected leaves.",
+      "hi": "पास के जुनिपर पेड़ों को हटाएं, फफूंदनाशी दवा लगाएं, और संक्रमित पत्तियों को छांटें।",
+      "mr": "शेजारील जुनिपर झाडे काढा, कवकनाशक वापरा, आणि संक्रमित पान छाटा."
+    }
+  },
+  "Apple___healthy": {
+    "crop": "Apple",
+    "symptoms": {
+      "en": "Leaves and fruit are healthy, without spots or lesions.",
+      "hi": "पत्तियां और फल स्वस्थ हैं, बिना किसी धब्बे या घाव के।",
+      "mr": "पान आणि फळ निरोगी आहेत, कोणतेही डाग किंवा घाव नाहीत."
+    },
+    "cure": {
+      "en": "No treatment needed; continue regular care and monitoring.",
+      "hi": "कोई उपचार आवश्यक नहीं; नियमित देखभाल और निगरानी जारी रखें।",
+      "mr": "उपचाराची गरज नाही; नियमित देखभाल आणि निरीक्षण सुरू ठेवा."
+    }
+  },
+  "Blueberry___healthy": {
+    "crop": "Blueberry",
+    "symptoms": {
+      "en": "Leaves and berries are healthy without disease symptoms.",
+      "hi": "पत्तियां और जामुन स्वस्थ हैं, बिना रोग के लक्षणों के।",
+      "mr": "पान आणि जामुन निरोगी आहेत, रोगाची लक्षणे नाहीत."
+    },
+    "cure": {
+      "en": "No treatment needed; maintain proper watering and nutrient supply.",
+      "hi": "कोई उपचार आवश्यक नहीं; उचित पानी और पोषक तत्वों की आपूर्ति बनाए रखें।",
+      "mr": "उपचाराची गरज नाही; योग्य पाणी आणि पोषक तत्व पुरवठा राखा."
+    }
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "crop": "Cherry",
+    "symptoms": {
+      "en": "White powdery coating on leaves, stems, and fruits; distorted growth.",
+      "hi": "पत्तियों, तनों और फलों पर सफेद पाउडर जैसी परत; विकृत वृद्धि।",
+      "mr": "पान, कळी आणि फळांवर पांढरी पावडरची थर; विकृत वाढ."
+    },
+    "cure": {
+      "en": "Apply sulfur-based fungicides, prune affected areas, and ensure good ventilation.",
+      "hi": "सल्फर आधारित फफूंदनाशी दवा लगाएं, प्रभावित हिस्सों को छांटें, और अच्छी हवा का प्रवाह सुनिश्चित करें।",
+      "mr": "सल्फर आधारित कवकनाशक वापरा, प्रभावित भाग छाटा, आणि चांगली हवा पोहच सुनिश्चित करा."
+    }
+  },
+  "Cherry_(including_sour)___healthy": {
+    "crop": "Cherry",
+    "symptoms": {
+      "en": "Leaves and cherries appear healthy without disease signs.",
+      "hi": "पत्तियां और चेरी स्वस्थ दिखाई देती हैं, बिना रोग के संकेत।",
+      "mr": "पान आणि चेरी निरोगी दिसतात, रोगाची चिन्हे नाहीत."
+    },
+    "cure": {
+      "en": "No treatment needed; maintain regular care.",
+      "hi": "कोई उपचार आवश्यक नहीं; नियमित देखभाल बनाए रखें।",
+      "mr": "उपचाराची गरज नाही; नियमित देखभाल राखा."
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "Corn",
+    "symptoms": {
+      "en": "Gray to brown spots on leaves, often with yellow halos; leaf blight.",
+      "hi": "पत्तियों पर भूरे-ग्रे धब्बे, अक्सर पीले घेरे के साथ; पत्ती रोग।",
+      "mr": "पानावर करडा ते तपकिरी डाग, बहुधा पिवळ्या वलयासह; पान रोग."
+    },
+    "cure": {
+      "en": "Remove infected leaves, rotate crops, and use fungicides like Azoxystrobin.",
+      "hi": "संक्रमित पत्तियां हटाएं, फसल घुमाव करें, और अज़ॉक्सिस्टोबिन जैसी फफूंदनाशी दवा लगाएं।",
+      "mr": "संक्रमित पान काढा, पीक फेरफटका करा, आणि अझॉक्सिस्ट्रोबिनसारखा कवकनाशक वापरा."
+    }
+  },
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Corn",
+    "symptoms": {
+      "en": "Reddish-brown pustules on leaves; reduced growth and yield.",
+      "hi": "पत्तियों पर लाल-भूरे फफूंद के उभार; विकास और उपज में कमी।",
+      "mr": "पानावर लाल-तपकिरी फुंफीचे फोड; वाढ आणि उत्पादन कमी होणे."
+    },
+    "cure": {
+      "en": "Apply fungicides like Mancozeb or Propiconazole and plant resistant varieties.",
+      "hi": "मांकोजेब या प्रोपिकोनाजोल जैसी फफूंदनाशी दवा लगाएं और प्रतिरोधी किस्में लगाएं।",
+      "mr": "मँकोझेब किंवा प्रोपिकोनाझोलसारखा कवकनाशक वापरा आणि प्रतिरोधक जात लावा."
+    }
+  },
+  "Corn_(maize)___healthy": {
+    "crop": "Corn",
+    "symptoms": {
+      "en": "Leaves and corn ears are healthy without disease symptoms.",
+      "hi": "पत्तियां और मकई के कान स्वस्थ हैं, बिना रोग के लक्षणों के।",
+      "mr": "पान आणि मकईचे कान निरोगी आहेत, रोगाची लक्षणे नाहीत."
+    },
+    "cure": {
+      "en": "No treatment needed; continue proper irrigation and fertilization.",
+      "hi": "कोई उपचार आवश्यक नहीं; उचित सिंचाई और उर्वरक जारी रखें।",
+      "mr": "उपचाराची गरज नाही; योग्य पाणी आणि खत पुरवठा राखा."
+    }
+  },
+  "Grape___Black_rot": {
+    "crop": "Grape",
+    "symptoms": {
+      "en": "Black spots on leaves and fruit; fruit rot and leaf blight.",
+      "hi": "पत्तियों और फलों पर काले धब्बे; फल सड़ना और पत्ती रोग।",
+      "mr": "पान आणि फळांवर काळे डाग; फळ सडणे आणि पान रोग."
+    },
+    "cure": {
+      "en": "Prune infected parts, apply fungicides like Mancozeb, and maintain vineyard hygiene.",
+      "hi": "संक्रमित हिस्सों को छांटें, मांकोजेब जैसी फफूंदनाशी दवा लगाएं, और बगीचे की स्वच्छता बनाए रखें।",
+      "mr": "संक्रमित भाग छाटा, मँकोझेब वापरा, आणि अंगूर बागेची स्वच्छता राखा."
+    }
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "crop": "Grape",
+    "symptoms": {
+      "en": "Dark lesions on leaves and berries; wood decay in older vines.",
+      "hi": "पत्तियों और जामुन पर काले घाव; पुराने बेलों में लकड़ी सड़ना।",
+      "mr": "पान आणि द्राक्षांवर काळे घाव; जुन्या द्राक्ष झुडपांमध्ये लाकूड सडणे."
+    },
+    "cure": {
+      "en": "Remove infected wood, prune carefully, and apply fungicides; avoid water stress.",
+      "hi": "संक्रमित लकड़ी हटा दें, सावधानी से छंटाई करें, और फफूंदनाशी दवा लगाएं; पानी की कमी से बचें।",
+      "mr": "संक्रमित लाकूड काढा, काळजीपूर्वक छाटणी करा, आणि कवकनाशक वापरा; पाण्याची कमतरता टाळा."
+    }
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "crop": "Grape",
+    "symptoms": {
+      "en": "Small brown spots on leaves that enlarge and merge; leaf blight.",
+      "hi": "पत्तियों पर छोटे भूरे धब्बे जो बढ़ते और मिल जाते हैं; पत्ती रोग।",
+      "mr": "पानावर लहान तपकिरी डाग जे मोठे होतात आणि एकत्र येतात; पान रोग."
+    },
+    "cure": {
+      "en": "Spray fungicides like Copper oxychloride, remove infected leaves, and ensure proper air circulation.",
+      "hi": "कॉपर ऑक्सीक्लोराइड जैसी फफूंदनाशी दवा लगाएं, संक्रमित पत्तियां हटाएं, और अच्छी हवा का प्रवाह सुनिश्चित करें।",
+      "mr": "कॉपर ऑक्सीक्लोराइड वापरा, संक्रमित पान काढा, आणि योग्य हवा पोहच सुनिश्चित करा."
+    }
+  },
+  "Grape___healthy": {
+    "crop": "Grape",
+    "symptoms": {
+      "en": "Leaves and grapes are healthy with no signs of disease.",
+      "hi": "पत्तियां और अंगूर स्वस्थ हैं, बिना रोग के संकेत।",
+      "mr": "पान आणि द्राक्ष निरोगी आहेत, रोगाची चिन्हे नाहीत."
+    },
+    "cure": {
+      "en": "No treatment needed; continue regular care and monitoring.",
+      "hi": "कोई उपचार आवश्यक नहीं; नियमित देखभाल और निगरानी जारी रखें।",
+      "mr": "उपचाराची गरज नाही; नियमित देखभाल आणि निरीक्षण सुरू ठेवा."
+    }
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "symptoms": {
+      "en": "Dark brown spots on leaves with concentric rings; stem lesions; tuber rot.",
+      "hi": "पत्तियों पर घेरेदार काले-भूरे धब्बे; तने पर घाव; आलू सड़ना।",
+      "mr": "पानावर गडद तपकिरी डाग, केंद्रिय वलयांसह; साल घाव; बटाटा सडणे."
+    },
+    "cure": {
+      "en": "Use resistant varieties, apply fungicides like Chlorothalonil, and rotate crops.",
+      "hi": "प्रतिरोधी किस्मों का उपयोग करें, क्लोरोथालोनिल जैसी फफूंदनाशी दवा लगाएं, और फसल घुमाव करें।",
+      "mr": "प्रतिरोधक जाती वापरा, क्लोरोथालोनिलसारखा कवकनाशक वापरा, आणि पीक फेरफटका करा."
+    }
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "symptoms": {
+      "en": "Water-soaked lesions on leaves and stems; white fungal growth; tuber rot.",
+      "hi": "पत्तियों और तनों पर पानी जैसे धब्बे; सफेद फफूंद वृद्धि; आलू सड़ना।",
+      "mr": "पान आणि सालावर पाण्यासारखे डाग; पांढरी फुगी वाढ; बटाटा सडणे."
+    },
+    "cure": {
+      "en": "Apply fungicides like Mancozeb or Metalaxyl, remove infected plants, and ensure proper drainage.",
+      "hi": "मांकोजेब या मेटालाक्सिल जैसी फफूंदनाशी दवा लगाएं, संक्रमित पौधों को हटाएं, और उचित जल निकासी सुनिश्चित करें।",
+      "mr": "मँकोझेब किंवा मेटालॅक्सिल वापरा, संक्रमित वनस्पती काढा, आणि योग्य ड्रेनेज सुनिश्चित करा."
+    }
+  },
+  "Potato___healthy": {
+    "crop": "Potato",
+    "symptoms": {
+      "en": "Leaves and tubers are healthy without disease symptoms.",
+      "hi": "पत्तियां और आलू स्वस्थ हैं, बिना रोग के लक्षणों के।",
+      "mr": "पान आणि बटाटा निरोगी आहेत, रोगाची लक्षणे नाहीत."
+    },
+    "cure": {
+      "en": "No treatment needed; continue good irrigation and fertilization practices.",
+      "hi": "कोई उपचार आवश्यक नहीं; उचित सिंचाई और उर्वरक जारी रखें।",
+      "mr": "उपचाराची गरज नाही; योग्य पाणी आणि खत पुरवठा राखा."
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Small, water-soaked spots on leaves and fruit; leaf yellowing.",
+      "hi": "पत्तियों और फलों पर छोटे पानी जैसे धब्बे; पत्ती का पीला होना।",
+      "mr": "पान आणि फळांवर लहान पाण्यासारखे डाग; पान पिवळे होणे."
+    },
+    "cure": {
+      "en": "Remove infected leaves, apply copper-based bactericides, and practice crop rotation.",
+      "hi": "संक्रमित पत्तियां हटाएं, तांबे आधारित जीवाणुनाशी दवा लगाएं, और फसल घुमाव करें।",
+      "mr": "संक्रमित पान काढा, तांबे आधारित जीवाणुनाशक वापरा, आणि पीक फेरफटका करा."
+    }
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Brown spots with concentric rings on lower leaves; leaf drop.",
+      "hi": "निचली पत्तियों पर घेरेदार भूरे धब्बे; पत्ती झड़ना।",
+      "mr": "खालच्या पानावर केंद्रिय वलयांसह तपकिरी डाग; पान झडणे."
+    },
+    "cure": {
+      "en": "Apply fungicides like Chlorothalonil, remove infected leaves, and use resistant varieties.",
+      "hi": "क्लोरोथालोनिल जैसी फफूंदनाशी दवा लगाएं, संक्रमित पत्तियां हटाएं, और प्रतिरोधी किस्में इस्तेमाल करें।",
+      "mr": "क्लोरोथालोनिल वापरा, संक्रमित पान काढा, आणि प्रतिरोधक जाती वापरा."
+    }
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Water-soaked lesions on leaves, stems, and fruits; white fungal growth.",
+      "hi": "पत्तियों, तनों और फलों पर पानी जैसे धब्बे; सफेद फफूंद वृद्धि।",
+      "mr": "पान, साल आणि फळांवर पाण्यासारखे डाग; पांढरी फुगी वाढ."
+    },
+    "cure": {
+      "en": "Use fungicides like Mancozeb or Metalaxyl, remove infected plants, and improve drainage.",
+      "hi": "मांकोजेब या मेटालाक्सिल जैसी फफूंदनाशी दवा लगाएं, संक्रमित पौधों को हटाएं, और जल निकासी सुधारें।",
+      "mr": "मँकोझेब किंवा मेटालॅक्सिल वापरा, संक्रमित वनस्पती काढा, आणि ड्रेनेज सुधार करा."
+    }
+  },
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Yellowish spots on upper leaf surface; gray mold on leaf underside.",
+      "hi": "ऊपरी पत्ती सतह पर पीले धब्बे; पत्ती के नीचे ग्रे फफूंद।",
+      "mr": "वरच्या पान पृष्ठभागावर पिवळे डाग; पानाखाली करडा फुगी."
+    },
+    "cure": {
+      "en": "Improve air circulation, avoid overhead watering, and apply fungicides like Copper oxychloride.",
+      "hi": "हवा का प्रवाह सुधारें, ऊपर से पानी देने से बचें, और कॉपर ऑक्सीक्लोराइड जैसी दवा लगाएं।",
+      "mr": "हवा पोहच सुधार, वरून पाणी टाळा, आणि कॉपर ऑक्सीक्लोराइड वापरा."
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Small circular spots with dark borders on leaves; leaf drop in severe cases.",
+      "hi": "पत्तियों पर छोटे गोल धब्बे जिनके काले किनारे हैं; गंभीर मामलों में पत्ती झड़ना।",
+      "mr": "पानावर लहान गोल डाग, ज्यांचे काळे काठ आहे; गंभीर प्रकरणात पान झडणे."
+    },
+    "cure": {
+      "en": "Remove infected leaves, apply fungicides like Chlorothalonil, and rotate crops.",
+      "hi": "संक्रमित पत्तियां हटाएं, क्लोरोथालोनिल जैसी फफूंदनाशी दवा लगाएं, और फसल घुमाव करें।",
+      "mr": "संक्रमित पान काढा, क्लोरोथालोनिल वापरा, आणि पीक फेरफटका करा."
+    }
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Yellowing leaves with tiny spots; fine webbing on leaf underside; stunted growth.",
+      "hi": "पत्तियों का पीला होना और छोटे धब्बे; पत्ती के नीचे जाले; विकास रुकना।",
+      "mr": "पान पिवळे होणे व छोटे डाग; पानाखाली जाळे; वाढ कमी होणे."
+    },
+    "cure": {
+      "en": "Spray miticides, introduce natural predators like ladybugs, and avoid dry stress.",
+      "hi": "माइटिसाइड स्प्रे करें, लेडीबग जैसे प्राकृतिक शिकारी डालें, और सूखे तनाव से बचें।",
+      "mr": "मायटिसाइड स्प्रे करा, लेडीबग सारखे नैसर्गिक शिकारी टाका, आणि कोरडेपणाचा ताण टाळा."
+    }
+  },
+  "Tomato___Target_Spot": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Brown spots with concentric rings on leaves; leaf drop and fruit lesions.",
+      "hi": "पत्तियों पर घेरेदार भूरे धब्बे; पत्ती झड़ना और फल पर घाव।",
+      "mr": "पानावर केंद्रिय वलयांसह तपकिरी डाग; पान झडणे आणि फळावर घाव."
+    },
+    "cure": {
+      "en": "Apply fungicides like Chlorothalonil, remove affected leaves, and rotate crops.",
+      "hi": "क्लोरोथालोनिल जैसी दवा लगाएं, प्रभावित पत्तियां हटाएं, और फसल घुमाव करें।",
+      "mr": "क्लोरोथालोनिल वापरा, प्रभावित पान काढा, आणि पीक फेरफटका करा."
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Leaf curling, yellowing, stunted growth, and reduced fruit set.",
+      "hi": "पत्तियों का मुड़ना, पीला होना, विकास रुकना और फल कम होना।",
+      "mr": "पान वाकडे होणे, पिवळेपणा, वाढ कमी होणे आणि फळ कमी होणे."
+    },
+    "cure": {
+      "en": "Use resistant varieties, control whitefly vectors, and remove infected plants.",
+      "hi": "प्रतिरोधी किस्मों का उपयोग करें, व्हाइटफ्लाई नियंत्रण करें, और संक्रमित पौधों को हटाएं।",
+      "mr": "प्रतिरोधक जाती वापरा, व्हाइटफ्लाय नियंत्रण करा, आणि संक्रमित वनस्पती काढा."
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Mottled leaves with light and dark green patches, leaf distortion, and reduced yield.",
+      "hi": "पत्तियों पर हल्के और गहरे हरे धब्बे, पत्ती विकृति, और कम उपज।",
+      "mr": "पानावर फिक्के आणि गडद हिरवे डाग, पान विकृती, आणि कमी उत्पादन."
+    },
+    "cure": {
+      "en": "Remove infected plants, control aphid vectors, use virus-free seeds, and practice crop rotation.",
+      "hi": "संक्रमित पौधों को हटाएं, एफिड वैक्टर नियंत्रण करें, वायरस मुक्त बीज का उपयोग करें, और फसल घुमाव करें।",
+      "mr": "संक्रमित वनस्पती काढा, एफिड वेक्टर नियंत्रण करा, व्हायरस मुक्त बियाणे वापरा, आणि पीक फेरफटका करा."
+    }
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "symptoms": {
+      "en": "Leaves and fruits are healthy with no disease signs.",
+      "hi": "पत्तियां और फल स्वस्थ हैं, बिना रोग के संकेत।",
+      "mr": "पान आणि फळ निरोगी आहेत, रोगाची चिन्हे नाहीत."
+    },
+    "cure": {
+      "en": "No treatment needed; continue regular care and monitoring.",
+      "hi": "कोई उपचार आवश्यक नहीं; नियमित देखभाल और निगरानी जारी रखें।",
+      "mr": "उपचाराची गरज नाही; नियमित देखभाल आणि निरीक्षण सुरू ठेवा."
+    }
+  }
+}
